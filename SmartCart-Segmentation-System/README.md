@@ -165,13 +165,5 @@ The goal is to cluster customers based on their demographics, purchasing behavio
              │   spenders           │
              │ - Target promotions  │
              └──────────────────────┘
-## Visualization
-- 3D PCA plots showing cluster separation  
-- Scatterplots for Total_Spending vs Income  
-- Countplots for cluster distribution  
-## Next Steps / Improvements
-- Experiment with other clustering algorithms (DBSCAN, Gaussian Mixture Models)
-- Include additional behavioral metrics (e.g., frequency of purchases, average deal size)
-- Use cluster labels for predictive modeling or recommendation systems
-- Use cluster labels for predictive modeling or recommendation systems
-Deploy an interactive dashboard for marketing insights
+
+
